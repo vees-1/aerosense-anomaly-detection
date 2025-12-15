@@ -1,4 +1,4 @@
-# Air Traffic Anomaly Detection ✈️
+# Air Traffic Anomaly Detection 
 
 ## Overview
 This project implements an **unsupervised anomaly detection system** to identify abnormal aircraft behavior from real-world flight movement data.  
