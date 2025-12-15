@@ -4,8 +4,6 @@
 This project implements an **unsupervised anomaly detection system** to identify abnormal aircraft behavior from real-world flight movement data.  
 The system models *normal flight behavior* and flags statistically rare events that may indicate irregular or potentially unsafe conditions.
 
-The workflow follows principles from **Andrew Ng’s Machine Learning Specialization**, emphasizing simplicity, interpretability, and probabilistic modeling.
-
 ---
 
 ## Problem Statement
